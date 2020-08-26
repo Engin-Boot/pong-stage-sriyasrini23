@@ -2,12 +2,14 @@
 
 ## Startup Sequence
 
--describe-how-your-modules-interact-to-start
+The Game module instantiates Paddles and Ball, and calls sthe initial functions
 
 ## Movement Initiation
 
--describe-how-modules-interact-to-make-the-ball-move
+The paddle module takes user input and moves the paddle. 
+
+The ball moves left and right unless hit by a paddle.
 
 ## One score
 
--describe-how-the-modules-interact-to-record-scores
+If paddles miss, opposite one gets a score, and ball comes back to center
