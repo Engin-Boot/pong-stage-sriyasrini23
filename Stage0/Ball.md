@@ -24,7 +24,7 @@ It can also hold color and size of the ball.
   
   Then the ball moves back
   
-  ### Scenario: Move ball upon missing paddle
+### Scenario: Move ball upon missing paddle
 
   Given a move function in the module
   
