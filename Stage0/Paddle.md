@@ -16,10 +16,10 @@ It moves the paddle according to user input
   
   Then paddle moves
 
-### Scenario: Point is scored
+### Scenario: User scores point
 
-  Given the gameplay is on
+  Given the game play is on
   
-  When a point is scored
+  When user scores a point
   
   Then paddle moves back to center
