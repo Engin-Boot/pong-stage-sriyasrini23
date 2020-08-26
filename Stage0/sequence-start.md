@@ -2,7 +2,7 @@
 
 ## Startup Sequence
 
-The Game module instantiates Paddles and Ball, and calls sthe initial functions.
+The Game module instantiates Paddles and Ball, and calls the initial functions.
 
 ## Movement Initiation
 
