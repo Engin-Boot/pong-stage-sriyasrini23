@@ -10,14 +10,14 @@ The module starts and sets up the game , keeps tally of the scores.
 
   Given players want to play
   
-  When program is started
+  When program starts
   
-  Then the game is started
+  Then the game starts
 
 ### Scenario: Stop game
 
   Given players want to stop
   
-  When esc is pressed
+  When player presses escape key
   
-  Then the game is stopped
+  Then the game stops
