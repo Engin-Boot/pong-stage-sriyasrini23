@@ -2,7 +2,7 @@
 
 ## Feature
 
-It holds the paddle size, color and position.
+It holds the paddle size, color, position and score.
   
 It moves the paddle according to user input
 
