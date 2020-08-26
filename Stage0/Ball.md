@@ -10,7 +10,7 @@ It can also hold color and size of the ball.
 
 ### Scenario: Move ball in the beginning
 
-  Given the ball is in the centre at the beginning of the game
+  Given the ball is in the center at the beginning of the game
   
   When the game starts
   
